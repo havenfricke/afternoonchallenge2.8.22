@@ -1,0 +1,21 @@
+
+header{
+  min-height: 100vh;
+  width: auto;
+}
+
+main{
+  min-height: 100vh;
+  width: auto;
+}
+
+footer{
+  min-height: 100vh;
+  width: auto;
+}
+
+
+.header-row{
+  height: 100%;
+  width: 100%;
+}
